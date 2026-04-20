@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في عتمة الليالي
+> أشتاق إليك والشوق أسر بالي
+> في عينيك أرى كل أحلامي
+> يا نبض قلبي وحبي الخيالي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
