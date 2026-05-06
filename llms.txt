@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-haga-betetfaham/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Kol Haga Betetfaham](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
